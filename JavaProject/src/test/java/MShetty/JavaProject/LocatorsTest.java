@@ -22,7 +22,8 @@ public static void main(String[] args) throws InterruptedException {
 
 //implicit wait - 2 seconds time out
 
-	System.setProperty("webdriver.chrome.driver", "D:\\SW\\drivers\\chromedriver-win64\\chromedriver.exe");
+	
+System.setProperty("webdriver.chrome.driver", "D:\\SW\\drivers\\chromedriver-win64\\chromedriver.exe");
 
 WebDriver driver = new ChromeDriver();
 
