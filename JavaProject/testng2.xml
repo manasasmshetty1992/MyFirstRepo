@@ -5,6 +5,7 @@
     <classes>
       <class name="Folder1.RESTAPITest"/>
       <class name="Folder1.SeleniumTest"/>
+      <class name="Folder1.AddingItemsToCartTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
