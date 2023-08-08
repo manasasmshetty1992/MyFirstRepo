@@ -6,6 +6,7 @@
       <class name="Folder1.RESTAPITest"/>
       <class name="Folder1.AppiumTest"/>
       <class name="Folder1.SeleniumTest"/>
+      <class name="Folder1.AlertsTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
